@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<dimen name="dp_1">1.8389dp</dimen>
+	<dimen name="dp_5">9.1944dp</dimen>
+	<dimen name="dp_8">14.7111dp</dimen>
+	<dimen name="dp_12">22.0667dp</dimen>
+	<dimen name="dp_16">29.4222dp</dimen>
+	<dimen name="dp_18">33.1000dp</dimen>
+	<dimen name="dp_20">36.7778dp</dimen>
+	<dimen name="dp_22">40.4556dp</dimen>
+	<dimen name="font_10sp">18.3889sp</dimen>
+	<dimen name="font_12sp">22.0667sp</dimen>
+	<dimen name="font_14sp">25.7444sp</dimen>
+	<dimen name="font_16sp">29.4222sp</dimen>
+	<dimen name="font_18sp">33.1000sp</dimen>
+	<dimen name="font_20sp">36.7778sp</dimen>
+	<dimen name="font_22sp">40.4556sp</dimen>
+	<dimen name="font_24sp">44.1333sp</dimen>
+	<dimen name="left_padding">27.5833dp</dimen>
+	<dimen name="right_padding">27.5833dp</dimen>
+</resources>
