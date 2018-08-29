@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.view.View;
 
 import com.mfc.fastapp.R;
-import com.mfc.fastapp.activitys.RecyclerviewActivity;
 import com.mfc.fastapp.activitys.ScreenInfoActivity;
 import com.mfc.fastapp.base.BaseFragment;
 
@@ -30,7 +29,7 @@ public class MainMyFragment extends BaseFragment {
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.tv_recyverview:
-                startActivity(new Intent(getActivity(), RecyclerviewActivity.class));
+//                startActivity(new Intent(getActivity(), RecyclerviewActivity.class));
                 break;
             case R.id.tv_scan:
 //                startActivity(new Intent(getActivity(), HomeActiviy.class));

@@ -41,8 +41,6 @@
         </activity-alias>
 
         <activity android:name=".activitys.ScreenInfoActivity" />
-        <activity android:name=".activitys.RecyclerviewActivity" />
-        <activity android:name=".activitys.BrvahActivity"></activity>
     </application>
 
 </manifest>
