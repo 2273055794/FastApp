@@ -41,6 +41,7 @@
         </activity-alias>
 
         <activity android:name=".activitys.ScreenInfoActivity" />
+        <activity android:name=".activitys.TestActivity"></activity>
     </application>
 
 </manifest>
